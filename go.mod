@@ -1,4 +1,4 @@
-module forked-sqlboiler
+module github.com/aarondl/sqlboiler/v4
 
 go 1.24
 
@@ -7,7 +7,6 @@ require (
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/aarondl/null/v8 v8.1.3
 	github.com/aarondl/randomize v0.0.2
-	github.com/aarondl/sqlboiler/v4 v4.19.5
 	github.com/aarondl/strmangle v0.0.9
 	github.com/davecgh/go-spew v1.1.1
 	github.com/ericlagergren/decimal v0.0.0-20190420051523-6335edbaa640
